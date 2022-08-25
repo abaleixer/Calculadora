@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn {
     margin: 5px !important;
 }
@@ -6,3 +7,15 @@ body{
     background: #99bca9 !important;
     padding: 21px !important;
 }
+=======
+
+.btn {
+    margin: 5px !important;
+}
+/* Esto es de Aleixer */
+body{
+    background: #99bca9 !important;
+    padding: 25px !important;
+}
+
+>>>>>>> 5f9ed11b50e817651312941e45c770253b39b59c
