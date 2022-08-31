@@ -2,7 +2,7 @@ let numeroUno = 0;
 let numeroDos = 0;
 let resultado = 0;
 let operacion = "";
-
+// Esto lo esta editando Lidis
 function igualar() {
     if (operacion == '+') {
         resultado = numeroUno + numeroDos
